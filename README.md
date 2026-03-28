@@ -41,13 +41,25 @@
 
 ### 💡 Projects
 
-- ✍️ **Virtual Whiteboard**  
-  Gesture-based drawing using Computer Vision  
-  🔗 https://github.com/pritish73/YOUR_WHITEBOARD_REPO
+- ✍️ **AI Gesture Virtual Whiteboard**  
+  Real-time gesture-based drawing system using Computer Vision  
+  Tech: Python, OpenCV, MediaPipe  
+  🔗 https://github.com/pritish73/ai-gesture-virtual-whiteboard  
 
 - 📊 **TOPSIS Decision-Making System**  
-  Python-based multi-criteria decision analysis system with CLI, PyPI package, and Flask web app  
-  🔗 https://github.com/pritish73/YOUR_TOPSIS_REPO
+  Multi-criteria decision analysis with CLI tool, PyPI package, and Flask web app  
+  Tech: Python, Flask  
+  🔗 https://github.com/pritish73/topsis-algorithm-implementation-python-cli-pypi-flask  
+
+- 🤖 **Sentence Similarity Model Evaluation**  
+  Compared transformer-based models using TOPSIS with Hugging Face embeddings  
+  Tech: Python, NLP, Hugging Face  
+  🔗 https://github.com/pritish73/sentence-similarity-model-evaluation-using-topsis-with-huggingface-embeddings  
+
+- 📈 **Data Generation using Modelling & Simulation for ML**  
+  Generated synthetic datasets using simulation techniques for machine learning tasks  
+  Tech: Python  
+  🔗 https://github.com/pritish73/Data-Generation-using-Modelling-and-Simulation-for-Machine-Learning
   
 ---
 
