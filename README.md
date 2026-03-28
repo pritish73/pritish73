@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://leetcode.com/u/PritishDutta/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
 <a href="https://github.com/pritish73">
   <img src="https://skillicons.dev/icons?i=github" />
