@@ -40,10 +40,15 @@
 ---
 
 ### 💡 Projects
+
 - ✍️ **Virtual Whiteboard**  
   Gesture-based drawing using Computer Vision  
-  🔗 https://github.com/pritish73/YOUR_REPO_NAME
+  🔗 https://github.com/pritish73/YOUR_WHITEBOARD_REPO
 
+- 📊 **TOPSIS Decision-Making System**  
+  Python-based multi-criteria decision analysis system with CLI, PyPI package, and Flask web app  
+  🔗 https://github.com/pritish73/YOUR_TOPSIS_REPO
+  
 ---
 
 <p align="center">
