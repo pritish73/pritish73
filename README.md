@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Computer+Vision;Real-time+Systems;Machine+Learning&center=true&width=500&height=50">
+</p>
+
+---
+
 ### 🚀 About Me
 - 🔭 Building AI-driven systems like **Virtual Whiteboard**
 - 🧠 Interested in **Computer Vision, Digital Twins & Predictive Systems**
@@ -13,8 +19,15 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/pritish-dutta-06aa43247/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://leetcode.com/u/PritishDutta/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+</a>
+<a href="https://github.com/pritish73">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
@@ -28,13 +41,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritish73&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritish73&theme=radical" />
 </p>
 
 ---
 
 ### 💡 Projects
-- ✍️ **Virtual Whiteboard** → Gesture-based drawing using Computer Vision
+- ✍️ **Virtual Whiteboard**  
+  Gesture-based drawing using Computer Vision  
+  🔗 https://github.com/pritish73/YOUR_REPO_NAME
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pritish73&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
