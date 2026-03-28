@@ -34,7 +34,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,opencv,tensorflow,mongodb,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r,flask,tensorflow,pytorch,mongodb,git,vscode" />
 </p>
 
 ---
