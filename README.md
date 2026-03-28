@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://leetcode.com/u/PritishDutta/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://github.com/pritish73">
   <img src="https://skillicons.dev/icons?i=github" />
@@ -35,14 +35,6 @@
 ### 🛠️ Languages and Tools
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,opencv,tensorflow,mongodb,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritish73&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritish73&theme=radical" />
 </p>
 
 ---
