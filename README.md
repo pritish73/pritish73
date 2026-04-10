@@ -39,29 +39,6 @@
 
 ---
 
-### 💡 Projects
-
-- ✍️ **AI Gesture Virtual Whiteboard**  
-  Real-time gesture-based drawing system using Computer Vision  
-  Tech: Python, OpenCV, MediaPipe  
-  🔗 https://github.com/pritish73/ai-gesture-virtual-whiteboard  
-
-- 📊 **TOPSIS Decision-Making System**  
-  Multi-criteria decision analysis with CLI tool, PyPI package, and Flask web app  
-  Tech: Python, Flask  
-  🔗 https://github.com/pritish73/topsis-algorithm-implementation-python-cli-pypi-flask  
-
-- 🤖 **Sentence Similarity Model Evaluation**  
-  Compared transformer-based models using TOPSIS with Hugging Face embeddings  
-  Tech: Python, NLP, Hugging Face  
-  🔗 https://github.com/pritish73/sentence-similarity-model-evaluation-using-topsis-with-huggingface-embeddings  
-
-- 📈 **Data Generation using Modelling & Simulation for ML**  
-  Generated synthetic datasets using simulation techniques for machine learning tasks  
-  Tech: Python  
-  🔗 https://github.com/pritish73/Data-Generation-using-Modelling-and-Simulation-for-Machine-Learning
-  
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritish73&label=Profile%20views&color=0e75b6&style=flat" />
