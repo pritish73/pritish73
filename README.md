@@ -68,17 +68,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritish73&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Achievements & Profiles
-<p align="center">
-  <a href="https://leetcode.com/u/PritishDutta/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://github.com/pritish73">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
 
 ---
 
