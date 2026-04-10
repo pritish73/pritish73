@@ -13,7 +13,7 @@
 - 🔭 Building AI-driven systems like **Virtual Whiteboard**
 - 🧠 Interested in **Computer Vision, Digital Twins & Predictive Systems**
 - 📚 Currently exploring **Advanced ML, Real-time processing & optimization**
-- ⚡ Fun fact: I spend more time debugging than sleeping 😄
+
 
 ---
 
