@@ -26,7 +26,7 @@
 - 🖐️ Real-time **Gesture-Based Systems**
 - 🧠 **Advanced Computer Vision Models**
 - ⚡ **Low-latency AI systems**
-- 🌐 Improving my **AI portfolio & problem-solving skills**
+- 🌐 Improving my **portfolio & problem-solving skills**
 
 ---
 
